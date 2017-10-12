@@ -1,0 +1,5 @@
+CREATE TABLE STUDENT
+(
+    ID NUMBER(19) auto_increment primary key NOT NULL,
+    FULLNAME VARCHAR2(50) NOT NULL,
+);
